@@ -1132,7 +1132,7 @@ h1, h2, h3, h4, h5,
       position: relative;
       border-radius: 10px;
       overflow: hidden;
-      box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+      box-shadow: 0px 5px 15px rgba(202, 200, 63, 0.2);
     }
     
     /* 🔹 Left Side: "Our Grounds" */
@@ -1145,7 +1145,7 @@ h1, h2, h3, h4, h5,
       position: relative;
       z-index: 2;
       transition: transform 0.3s ease-in-out;
-      background: linear-gradient(135deg, #0d0f13, #1c1f24); /* Dark modern gradient */
+      background: linear-gradient(135deg, #ee1e46, #1c1f24); /* Dark modern gradient */
       color: white;
     }
     

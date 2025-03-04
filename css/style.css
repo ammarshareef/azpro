@@ -664,7 +664,7 @@ h1, h2, h3, h4, h5,
     color: #fff; }
 
 .team-vs {
-  background-color: hsla(9, 9%, 70%, 0.758);
+  background-color: hsla(0, 0%, 0%, 0.758);
   overflow: hidden;
   border-radius: 10px;
   margin-top: -90px;
@@ -705,7 +705,7 @@ h1, h2, h3, h4, h5,
     position: relative; }
     .team-vs .team-2:before {
       position: absolute;
-      background: #f6d743;
+      background: #d4b203;
       background: #ee1e46;
       content: "";
       left: -12%;
